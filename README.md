@@ -5,10 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/jeremyeder/)
 
 tl;dr
-- 🔭 I’m currently working on managed cloud services at Red Hat (e.g. managed OpenShift).
-- 🌱 I’m currently learning how to manage larger and larger and larger efforts that involve every part of the company.
+- 🔭 I’m currently the Chief AI/ML Platform Strategist at Red Hat (e.g. OpenShift AI).
+- 🌱 I’m currently leading a variety of AI related efforts that involve every part of the company.
 - 💬 Ask me about cooking, my M5, the New York Mets, or my kiddos.
-- 📫 How to reach me: Twitter, LinkedIn primarily.
+- 📫 How to reach me: LinkedIn, Twitter primarily.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I got engaged in a hot air balloon.
 
